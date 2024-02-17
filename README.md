@@ -3,13 +3,13 @@
 </div>
 
 <div style="display: flex">
-<div id="stat" align="center">
+<div id="stat">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otakuict&theme=dark&show_icons=true)
 
 </div>
 
-<div id="stat2" align="center">
+<div id="stat2">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
