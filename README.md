@@ -2,6 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+<div style="display: flex">
 <div id="stat" align="center">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otakuict&theme=dark&show_icons=true)
@@ -11,6 +12,8 @@
 <div id="stat2" align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 </div>
 
