@@ -12,8 +12,11 @@
    </a>
 
 </div>
+
 <div id="count" align="center">
+
   ![](https://komarev.com/ghpvc/?username=otakuict)
+
 </div>
 
 
