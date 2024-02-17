@@ -8,7 +8,7 @@
 ---
 
 ### :woman_technologist: About Me :
-
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Thailand.
 <div id="stat" align="center">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otakuict&theme=dark&show_icons=true)
