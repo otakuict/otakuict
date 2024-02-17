@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzdreHRpNHVnM25taGoxa2Y3ejVic2s3cTcxYTl5emJkbzB4eWlpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="500"/>
 </div>
-
+<div id="stat" align="center">
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otakuict&theme=dark&show_icons=true)
-
+</div>
 
 ![](https://komarev.com/ghpvc/?username=otakuict)
