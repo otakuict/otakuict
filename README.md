@@ -9,12 +9,14 @@
 </div>
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/pattharaphon-ongmee-3155651b5">
+  <a href="https://www.linkedin.com/in/pattharaphon-ongmee-3155651b5" target="_blank" >
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.facebook.com/Otakuict1122">
+
+  <a href="https://www.facebook.com/Otakuict1122" target="_blank" >
    https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
   </a>
+
 </div>
 
 ![](https://komarev.com/ghpvc/?username=otakuict)
