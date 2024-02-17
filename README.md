@@ -12,8 +12,10 @@
    </a>
 
 </div>
-
+<div id="count" align="center">
 ![](https://komarev.com/ghpvc/?username=otakuict)
+</div>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
