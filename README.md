@@ -5,13 +5,13 @@
 <div style="display: flex">
 <div id="stat" align="center">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otakuict&theme=dark&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otakuict&theme=dark&show_icons=true) (https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
 <div id="stat2" align="center">
   
-
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)]
 
 </div>
 
