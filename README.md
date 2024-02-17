@@ -8,6 +8,14 @@
 
 </div>
 
+<div id="stat2" align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/pattharaphon-ongmee-3155651b5" target="_blank" >
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
