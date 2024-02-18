@@ -30,7 +30,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer from Thailand <img src="https://pngtree.com/freepng/thai-flag_8535617.html'>png image from pngtree.com" width="30">.
+I am a Full Stack Developer from Thailand <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" width="30">.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
