@@ -33,10 +33,10 @@
 I am a Full Stack Developer from Thailand. <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" width="30">
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- [![My Skills](https://skillicons.dev/icons?i=js,arduino)](https://skillicons.dev) I also work on some Embeded system and IoT.
+-:globe_with_meridians: I also work on some Embeded system and IoT.
 
 - :zap: In my free time, I solve problems on LeetCode and read tech articles AND ANIME!!.
-
+-:beer: Lover
 
 
 ---
