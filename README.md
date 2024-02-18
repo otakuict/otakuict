@@ -61,6 +61,8 @@ I am a Full Stack Developer from Thailand <img src="https://upload.wikimedia.org
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=otakuict)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otkuict&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <div id="stat" align="center">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otakuict&theme=dark&show_icons=true)
