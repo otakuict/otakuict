@@ -70,7 +70,7 @@ I am a Full Stack Developer from Thailand. <img src="https://upload.wikimedia.or
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=otakuict&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=otakuict)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otakuict&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
